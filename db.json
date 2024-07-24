@@ -1,0 +1,19 @@
+{
+  "quiz": [
+    {
+      "question": "What should you say before you start anything?",
+      "options": ["Bismillah", "Alhamdulillah", "in sha allah", "Allahu akbar"],
+      "answer": "Bismillah"
+    },
+    {
+      "question": "What was Adam (AS) created from?",
+      "options": ["Water", "Wood", "Clay", "Bones"],
+      "answer": "Clay"
+    },
+    {
+      "question": "In which Islamic month is Hajj performed?",
+      "options": ["Dhul Qa'dah", "Safar", "Jumada al-Ula", "Dhul Hijjah"],
+      "answer": "Dhul Hijjah"
+    }
+  ]
+}

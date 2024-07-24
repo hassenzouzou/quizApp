@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+body {
+  font-family: "Ubuntu Mono", monospace;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #e0f7fa;
+  font-weight: bold;
+}
+
+#quiz-container {
+  background-color: #ffffff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+
+#quiz-container h2 {
+  margin-top: 0;
+  color: #007bff;
+}
+
+button {
+  margin: 10px 0;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#options button {
+  display: block;
+  width: 100%;
+  margin: 5px 0;
+  padding: 10px;
+  background-color: #bbdefb;
+  color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#options button:hover {
+  background-color: #90caf9;
+}
